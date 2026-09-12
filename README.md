@@ -1,3 +1,9 @@
+# Identitas Siswa
+* **Nama**: Elfinka Naura Anta Zabrina
+* **Kelas/Absen**:11 PPLG1/11
+
+
+
 # Panduan Lengkap Penggunaan Git & Repositori
 
 Selamat datang di repositori proyek! Dokumen ini berisi standar operasional dan panduan menggunakan Git agar kolaborasi tim berjalan lancar, rapi, dan meminimalisir *conflict*, terutama saat bekerja dengan file berukuran besar (*assets*).
